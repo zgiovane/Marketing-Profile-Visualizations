@@ -18,7 +18,9 @@ The visualization I chose was the Bar plot showing the number of individuals by 
  
 ### User Story 2: Age and Income Distribution
 The next visualization I chose is the Box plot segmented by income and age, filtered for individuals with specific education levels. Some insights I learned were younger individuals, especially those under 30, show a wider distribution in income levels across different education levels, indicating a potential target demographic for marketing campaigns.
- 
+
+![](https://github.com/zgiovane/Marketing-Profile-Visualizations/blob/39f62b704b7cb36c3f28eced897eb68b189921a0/plot-visuals/Screenshot%202024-02-27%20215749.png)
+
 ### User Story 3: Marital Status and Occupation's Effect on Income
 The visualization I chose for this user story was the stacked bar chart showing the percentage of individuals exceeding $50K income by occupation and marital status. Some insights I reasoned were certain occupations and marital statuses are more likely to earn above $50K, highlighting potential demographics for recruitment.
  
