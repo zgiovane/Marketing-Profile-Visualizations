@@ -31,6 +31,7 @@ The next visualization I chose was the count plots for income distribution by ge
 
 ![](https://github.com/zgiovane/Marketing-Profile-Visualizations/blob/e0833e1581b31819f8cf3e0f200e69d450a20657/plot-visuals/Screenshot%202024-02-27%20220053.png)
 
+![](https://github.com/zgiovane/Marketing-Profile-Visualizations/blob/e3a2fe65f72d03596bdf42b3d8b8fc1320e29807/plot-visuals/Screenshot%202024-02-27%20220119.png)
 
 ### User Story 5: Hours Per Week and Capital Gain
 The final visualization I created for this was Strip plot showing hours worked per week by capital gain category, segmented by income level. Insights from this user story revealed individuals working longer hours or with higher capital gains are more likely to fall into the higher income bracket, indicating a demographic with potential interest in furthering their education for career advancement.
