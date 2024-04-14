@@ -23,6 +23,8 @@ The next visualization I chose is the Box plot segmented by income and age, filt
 
 ### User Story 3: Marital Status and Occupation's Effect on Income
 The visualization I chose for this user story was the stacked bar chart showing the percentage of individuals exceeding $50K income by occupation and marital status. Some insights I reasoned were certain occupations and marital statuses are more likely to earn above $50K, highlighting potential demographics for recruitment.
+
+![](https://github.com/zgiovane/Marketing-Profile-Visualizations/blob/9d7284524636cb42b815e0bd57a061e5385338e9/plot-visuals/Screenshot%202024-02-27%20215934.png)
  
 ### User Story 4: Gender and Race Income Distribution
 The next visualization I chose was the count plots for income distribution by gender and race. Some insights I learned through this were significant disparities in income distribution suggest targeted marketing could address underrepresented or disadvantaged groups.
