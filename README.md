@@ -1,4 +1,4 @@
-# CSE 578 – FINAL PROJECT REPORT
+Data that was utilized for this research can be found here: https://archive.ics.uci.edu/ml/machine-learning-databases/adult/adult.data
 
 ## INTRODUCTION
 This report presents an analysis of demographic factors influencing income levels, leveraging data provided by the U.S. Census Bureau. In collaboration with XYZ Corporation, this project aims to support UVW College in developing targeted marketing strategies to enhance enrollment by identifying potential students through income-level indicators.
