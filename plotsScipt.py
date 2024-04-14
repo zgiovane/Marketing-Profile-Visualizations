@@ -3,8 +3,7 @@ import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
 
-data = pd.read_csv('CSE578_Project_Data.txt', sep=',', names=['Age', 'Work Class', 'fnlwgt', 'Education','Education Num','Marital Status','Occupation','Relationship','Race','Sex','Capital Gain', 'Capital Loss','Hours Per Week', 'Native
-Country', 'Salary'])
+data = pd.read_csv('CSE578_Project_Data.txt', sep=',', names=['Age', 'Work Class', 'fnlwgt', 'Education','Education Num','Marital Status','Occupation','Relationship','Race','Sex','Capital Gain', 'Capital Loss','Hours Per Week', 'Native Country', 'Salary'])
 
 # Cleaning the data to remove the "?"
 data.replace(" ?", "Not Identified", inplace=True)
