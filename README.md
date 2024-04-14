@@ -28,7 +28,10 @@ The visualization I chose for this user story was the stacked bar chart showing 
  
 ### User Story 4: Gender and Race Income Distribution
 The next visualization I chose was the count plots for income distribution by gender and race. Some insights I learned through this were significant disparities in income distribution suggest targeted marketing could address underrepresented or disadvantaged groups.
-  
+
+![](https://github.com/zgiovane/Marketing-Profile-Visualizations/blob/e0833e1581b31819f8cf3e0f200e69d450a20657/plot-visuals/Screenshot%202024-02-27%20220053.png)
+
+
 ### User Story 5: Hours Per Week and Capital Gain
 The final visualization I created for this was Strip plot showing hours worked per week by capital gain category, segmented by income level. Insights from this user story revealed individuals working longer hours or with higher capital gains are more likely to fall into the higher income bracket, indicating a demographic with potential interest in furthering their education for career advancement.
  
