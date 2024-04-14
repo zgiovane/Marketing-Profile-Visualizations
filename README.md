@@ -13,6 +13,8 @@ The Census Bureau data accurately reflects the broader population's demographic 
 
 ### User Story 1: Impact of Education on Income
 The visualization I chose was the Bar plot showing the number of individuals by education and salary. Some insights I determined is Higher education levels correlate with higher income brackets, suggesting targeted marketing towards individuals with specific educational backgrounds could be effective.
+
+![](https://github.com/zgiovane/Marketing-Profile-Visualizations/blob/a82c996ca32330de508185e2eead6dbb80c9c071/plot-visuals/Screenshot%202024-02-27%20215422.png)
  
 ### User Story 2: Age and Income Distribution
 The next visualization I chose is the Box plot segmented by income and age, filtered for individuals with specific education levels. Some insights I learned were younger individuals, especially those under 30, show a wider distribution in income levels across different education levels, indicating a potential target demographic for marketing campaigns.
